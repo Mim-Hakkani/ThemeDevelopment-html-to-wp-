@@ -1,4 +1,4 @@
-# ThemeDevelopment-HTNL TO WORDPRESS 
+# ThemeDevelopment-HTML TO WORDPRESS 
 -----------------------------------------------------------
 Theme Name : Animal Theme
 Author : golam HakkanI Mim
